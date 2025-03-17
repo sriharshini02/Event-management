@@ -4,5 +4,6 @@ dist/
 build/
 *.pyc
 *.pyo
-.env
+*.env
 release/
+installer/
